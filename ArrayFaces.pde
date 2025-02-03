@@ -1,3 +1,9 @@
+/*Giselle Valdez
+2/3/24
+Learning Goal: Students will demonstrate their understanding of Object-Oriented Programming and arrays by designing a Die class,
+creating an array of Die objects to form a dynamic grid, calculating and displaying the total value of the dice,
+and customizing the presentation of their program through HTML elements. */
+
 int numRows = 5;
 int numCols = 5;
 int picSize = 120;
